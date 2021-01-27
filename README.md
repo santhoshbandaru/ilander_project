@@ -5,7 +5,7 @@
 
 > In this Repo I implemented  Prediction of salary using Linear Regression and deployed to Heroku.
  <h4>To Review the Implemented Deployment Please visit  
-<a href=https://tharun3.herokuapp.com> https://tharun3.herokuapp.com</a> <h4>
+<a href=https://ilanderproject.herokuapp.com/>ilanderproject</a> <h4>
 
 <h2>STEPS TO FOLLOW</h2>
 <h3>1. Create a Directory Containing FlaskApp, Index.html and requirements.txt </h3>
