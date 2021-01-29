@@ -57,7 +57,7 @@ templates
 <h3>4 . Click Deploy Branch </h3>
 <img src='Images/3.png'>
 
-<p> A Link Will be Generated after sucessful Deployment like this <a href='https://tharun3.herokuapp.com ' > https://tharun3.herokuapp.com</a> </p>
+<p> A Link Will be Generated after sucessful Deployment like this <a href=https://ilanderproject.herokuapp.com/>ilanderproject</a> </p>
 
 <hr />
 
